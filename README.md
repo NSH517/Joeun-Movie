@@ -186,14 +186,14 @@
 - 관리자 전용 헤더 / 사이드바 레이아웃 구성 (`adminheader.jsp`, `adminsidebar.jsp`)
 
 <details>
-<summary><b>🎥 관리자 페이지 상세 보기</b></summary>
+<summary><b>🎥 관리자 페이지 보기</b></summary>
 
 <br>
-<img width="517" height="251" alt="그림1" src="https://github.com/user-attachments/assets/4ed4aa5c-ac32-4316-85fe-2b93a8aba551" />
-<img width="524" height="254" alt="그림2" src="https://github.com/user-attachments/assets/47b43fa5-1841-44f4-a870-6bf4d43231d3" />
-<img width="507" height="248" alt="그림3" src="https://github.com/user-attachments/assets/060adaac-b5cc-46bc-9aef-6d953fa5177d" />
-<img width="511" height="248" alt="그림4" src="https://github.com/user-attachments/assets/302e1500-a648-422d-9e73-f18d08f60e77" />
-<img width="515" height="250" alt="그림5" src="https://github.com/user-attachments/assets/25b63ad1-a7ce-4c11-82ee-03e32ab89b9e" />
+<img width="1913" height="879" alt="그림1" src="https://github.com/user-attachments/assets/4ed4aa5c-ac32-4316-85fe-2b93a8aba551" />
+<img width="1913" height="879" alt="그림2" src="https://github.com/user-attachments/assets/47b43fa5-1841-44f4-a870-6bf4d43231d3" />
+<img width="1913" height="879" alt="그림3" src="https://github.com/user-attachments/assets/060adaac-b5cc-46bc-9aef-6d953fa5177d" />
+<img width="1913" height="879" alt="그림4" src="https://github.com/user-attachments/assets/302e1500-a648-422d-9e73-f18d08f60e77" />
+<img width="1913" height="879" alt="그림5" src="https://github.com/user-attachments/assets/25b63ad1-a7ce-4c11-82ee-03e32ab89b9e" />
 
 </details>
 
@@ -202,12 +202,12 @@
 - 회원 정보 조회 및 수정 (`MyPageInfoServlet`, `MyPageInfoUpdateServlet`)
 - 작성 리뷰 목록 및 리뷰 상세 조회 (`MyPageReviewListServlet`, `MyPageReviewInfoServlet`)
 <details>
-<summary><b>🎥 영화 상세 페이지 보기</b></summary>
+<summary><b>🎥 마이 페이지 보기</b></summary>
 
 <br>
-<img width="565" height="237" alt="그림6" src="https://github.com/user-attachments/assets/43cc0c72-a393-4777-a32c-99b16cdd6bfe" />
-<img width="517" height="247" alt="그림7" src="https://github.com/user-attachments/assets/a8c750d3-c84a-4728-af05-6516f0edaf6a" />
-<img width="517" height="247" alt="그림8" src="https://github.com/user-attachments/assets/4a4ab79a-f83c-4d2d-886a-6d705ce5d18d" />
+<img width="1913" height="879" alt="그림6" src="https://github.com/user-attachments/assets/43cc0c72-a393-4777-a32c-99b16cdd6bfe" />
+<img width="1913" height="879" alt="그림7" src="https://github.com/user-attachments/assets/a8c750d3-c84a-4728-af05-6516f0edaf6a" />
+<img width="1913" height="879" alt="그림8" src="https://github.com/user-attachments/assets/4a4ab79a-f83c-4d2d-886a-6d705ce5d18d" />
 
 
 
