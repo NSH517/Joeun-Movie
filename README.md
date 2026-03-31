@@ -56,8 +56,8 @@
 |------|------|-----------|
 | 전휘강 | 🎨 메인 · 검색 · 토너먼트 | 메인 페이지, 검색 기능, 영화 상세 페이지, 영화 토너먼트 |
 | 김경화 | ✍️ 리뷰 시스템 | 리뷰 페이지 |
-| 박희진 | 🔐 인증 · 마이페이지 | 회원가입, 로그인 페이지, 마이페이지 |
-| 나승현 | 🛠 관리자 시스템 | 관리자 페이지 전체 |
+| 박희진 | 🔐 인증  | 회원가입, 로그인 페이지 |
+| 나승현 | 🛠 관리자 시스템 · 마이페이지 | 관리자 페이지 전체 |
 
 ---
 
@@ -174,11 +174,6 @@
 - `AuthFilter` · `EncodingFilter` 기반 접근 제어 및 인코딩 처리
 - `PersistenceLogins` 기반 자동 로그인 기능
 
-#### 👤 마이페이지
-
-- 회원 정보 조회 및 수정 (`MyPageInfoServlet`, `MyPageInfoUpdateServlet`)
-- 작성 리뷰 목록 및 리뷰 상세 조회 (`MyPageReviewListServlet`, `MyPageReviewInfoServlet`)
-
 ---
 
 ### 🛠 나승현 — 관리자 시스템
@@ -189,6 +184,12 @@
 - 회원 목록 조회 · 상세 · 삭제 (`UsersServlet`, `UsersServletInfo`, `UserDeleteServlet`)
 - 리뷰 전체 목록 조회 및 관리
 - 관리자 전용 헤더 / 사이드바 레이아웃 구성 (`adminheader.jsp`, `adminsidebar.jsp`)
+
+#### 👤 마이페이지
+
+- 회원 정보 조회 및 수정 (`MyPageInfoServlet`, `MyPageInfoUpdateServlet`)
+- 작성 리뷰 목록 및 리뷰 상세 조회 (`MyPageReviewListServlet`, `MyPageReviewInfoServlet`)
+
 
 ---
 
