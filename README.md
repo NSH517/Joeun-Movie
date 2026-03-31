@@ -180,10 +180,13 @@
 
 #### 🎛 관리자 페이지
 
-- 영화 목록 조회 · 상세 · 등록 · 수정 · 삭제 (`MovieServlet`, `MovieServletInfo`, `MovieUpdateServlet`, `MovieDeleteServlet`)
-- 회원 목록 조회 · 상세 · 삭제 (`UsersServlet`, `UsersServletInfo`, `UserDeleteServlet`)
+- 영화 목록 조회 · 상세 · 등록 · 수정 · 삭제
+    (`MovieServlet`, `MovieServletInfo`, `MovieUpdateServlet`, `MovieDeleteServlet`)
+- 회원 목록 조회 · 상세 · 삭제
+    (`UsersServlet`, `UsersServletInfo`, `UserDeleteServlet`)
 - 리뷰 전체 목록 조회 및 관리
-- 관리자 전용 헤더 / 사이드바 레이아웃 구성 (`adminheader.jsp`, `adminsidebar.jsp`)
+- 관리자 전용 헤더 / 사이드바 레이아웃 구성
+    (`adminheader.jsp`, `adminsidebar.jsp`)
 
 <details>
 <summary><b>🎥 관리자 페이지 보기</b></summary>
@@ -199,8 +202,10 @@
 
 #### 👤 마이페이지
 
-- 회원 정보 조회 및 수정 (`MyPageInfoServlet`, `MyPageInfoUpdateServlet`)
-- 작성 리뷰 목록 및 리뷰 상세 조회 (`MyPageReviewListServlet`, `MyPageReviewInfoServlet`)
+- 회원 정보 조회 및 수정
+    (`MyPageInfoServlet`, `MyPageInfoUpdateServlet`)
+- 작성 리뷰 목록 및 리뷰 상세 조회
+    (`MyPageReviewListServlet`, `MyPageReviewInfoServlet`)
 <details>
 <summary><b>🎥 마이 페이지 보기</b></summary>
 
